@@ -1,0 +1,416 @@
+.main{
+    display: flex;
+    gap: 17px;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+.chiziq{
+    position: relative;
+    left: 45px;
+    top: -130px
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.barca{
+
+    font-family: Raleway;
+    font-size: 35px;
+    font-weight: 00;
+    line-height: 52.5px;
+}
+    .longtext{
+        font-family: Raleway;
+font-size: 18px;
+font-weight: 300;
+line-height: 27px;
+width: 300px;
+
+    }
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:wght@100..900&display=swap');
+
+
+    .price{
+        font: Open Sans;
+color: rgba(255, 150, 25, 1);
+font-size: 24px;
+line-height: 27px;
+font-weight: 600;
+    }
+
+
+    .proschet{
+        background-color:rgba(255, 150, 25, 1);
+        color: #fff;
+        width: 288px;
+        height: 20px;
+        padding: 12px;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .container{
+        display: flex;
+        position: relative;
+      
+    }
+
+    .barcamain{
+        position: relative;
+        left: -400px;
+    }
+
+    .allimages{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    position: relative;
+    top: 115px;
+    }
+
+    
+    h2{
+        border: 2px solid rgba(255, 150, 25, 1);
+        width: 230px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 100;
+        line-height: 35px;
+        height: 12px;
+        padding: 69px;
+position: relative;
+top: 320px;
+    }
+    
+
+    h2 i{
+        background-color:rgba(255, 150, 25, 1);
+        color: #fff;
+        border-radius: 18px;
+    }
+
+    .cards{
+        display: flex;
+        justify-content: center;
+    }
+
+    .technic-information{
+        position: relative;
+        top: 300px;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 20.4px;
+        color: rgba(52, 52, 52, 1);
+        font-size: 19px;
+        border-top: 2px solid rgba(52, 52, 52, 0.2);
+        padding: 22px;
+
+    
+    }
+
+ .size{
+    padding: 22px;
+    position: relative;
+    top: 300px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20.4px;
+    color: rgba(52, 52, 52, 1);
+    border: 1px solid rgb(201, 202, 203);
+    background-color: rgba(242, 243, 245, 1);
+    width: 549px;
+    height: 63px;
+    text-align: center;
+font-size: 19px;
+    
+ }
+
+ .extra-complection{
+    padding: 22px;
+    position: relative;
+    top: 300px;
+    font-weight: 500;
+    line-height: 20.4px;
+    color: rgba(52, 52, 52, 1);
+    border: 2px solid rgb(214, 215, 217);
+    background-color: rgba(242, 243, 245, 1);
+    width: 559px;
+    height: 63px;
+    text-align: center;
+    font-size: 19px;
+
+ }
+
+
+ .information{
+    display: flex;
+    justify-content: center;
+  
+    
+ }
+
+ .features{
+    position: relative;
+    top: 300px;
+    font-weight: normal;
+    padding-left: 73px;
+ }
+
+ .circle{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 332px;
+left: 30px;
+}
+
+
+.circle2{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 367px;
+left: 30px;
+}
+
+
+.circle3{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 400px;
+left: 30px;
+}
+
+
+
+.circle4{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 432px;
+left: 30px;
+}
+
+
+.circle5{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 465px;
+left: 30px;
+}
+.circle6{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 493px;
+left: 30px;
+}
+.circle7{
+    width: 9px;
+    height: 9px;
+    background-color: rgba(255, 150, 25, 1);
+    border-radius: 20px;
+position: relative;
+top: 525px;
+left: 30px;
+}
+
+.circles{
+    position: relative;
+    top: 51px;
+}
+
+.Безустановки{
+    position: relative;
+    left: 230px;
+    top: -283px;
+    color: rgba(52, 52, 52, 1);
+}
+
+.Основой-служит{
+    position: relative;
+    left: 230px;
+    top: -283px;
+    color: rgba(52, 52, 52, 1);
+}
+
+.В-подушках{
+    position: relative;
+    left: 230px;
+    top: -286px;
+    width: 812px;
+color: rgba(52, 52, 52, 1);
+}
+
+.Может-быть-выполнена{
+    position: relative;
+    left: 230px;
+    top: -289px;
+    width: 812px;
+color: rgba(52, 52, 52, 1);   
+}
+
+.Модель-имеет{
+    position: relative;
+    left: 230px;
+    top: -299px;
+    width: 812px;
+color: rgba(52, 52, 52, 1);  
+}
+
+
+.Деревянная-опора{
+    position: relative;
+    left: 230px;
+    top: -310px;
+    width: 812px;
+color: rgba(52, 52, 52, 1); 
+}
+
+
+.Все-подушки{
+    position: relative;
+    left: 230px;
+    top: -320px;
+color: rgba(52, 52, 52, 1);
+}
+
+.header{
+    position: relative;
+    top: 300px;
+}
+
+
+.zagruzkabutton{
+    background-color:rgba(255, 150, 25, 1);
+    color: #fff;
+    width: 277px;
+    line-height: 27px;
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 280px;
+    left: 940px;
+    font-size: 18px
+}
+
+.image20000{
+    position: relative;
+    top: 400px;
+    left: 100px;
+}
+
+
+.form-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px 30px;
+    width: 100%;
+    max-width: 400px;
+    position: relative;
+    top: 500px;
+}
+.fillformmain{
+    color: #e65500;
+}
+
+/* Form Title */
+.form-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.highlight {
+    color: #ff6600;
+    font-weight: bold;
+}
+
+/* Input Fields */
+form label {
+    font-size: 14px;
+    margin-top: 10px;
+    display: block;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+form textarea {
+    resize: vertical;
+    height: 80px;
+}
+
+/* Checkbox */
+.checkbox-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.checkbox-container input[type="checkbox"] {
+    margin-right: 10px;
+    margin-top: 4px;
+    position: relative;
+    left: -80px;
+    top: -10px;
+}
+.checkbox-container label{
+    position: relative;
+    left: -160px;
+    top: -19px;
+}
+
+
+
+/* Submit Button */
+.submit-button {
+    background-color: #ff6600;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #e65500;
+}
+
+.ending{
+    display: flex;  
+}
