@@ -65,6 +65,11 @@ font-weight: 600;
         position: relative;
         left: -400px;
     }
+    
+    .kresloandchiziq{
+        position: relative;
+        top: 100px;
+    }
 
     .allimages{
         align-items: center;
@@ -152,7 +157,7 @@ font-size: 19px;
  .information{
     display: flex;
     justify-content: center;
-  
+  margin-top: -0200px;
     
  }
 
@@ -244,6 +249,7 @@ left: 30px;
 .Безустановки{
     position: relative;
     left: 230px;
+    width:400px ;
     top: -283px;
     color: rgba(52, 52, 52, 1);
 }
@@ -253,6 +259,7 @@ left: 30px;
     left: 230px;
     top: -283px;
     color: rgba(52, 52, 52, 1);
+    width:600px ;
 }
 
 .В-подушках{
@@ -267,7 +274,7 @@ color: rgba(52, 52, 52, 1);
     position: relative;
     left: 230px;
     top: -289px;
-    width: 812px;
+    width: 612px;
 color: rgba(52, 52, 52, 1);   
 }
 
@@ -276,7 +283,8 @@ color: rgba(52, 52, 52, 1);
     left: 230px;
     top: -299px;
     width: 812px;
-color: rgba(52, 52, 52, 1);  
+color: rgba(52, 52, 52, 1);
+width: 600px;  
 }
 
 
@@ -286,6 +294,7 @@ color: rgba(52, 52, 52, 1);
     top: -310px;
     width: 812px;
 color: rgba(52, 52, 52, 1); 
+width: 600px;
 }
 
 
@@ -293,6 +302,7 @@ color: rgba(52, 52, 52, 1);
     position: relative;
     left: 230px;
     top: -320px;
+    width: 600px;
 color: rgba(52, 52, 52, 1);
 }
 
@@ -313,15 +323,15 @@ color: rgba(52, 52, 52, 1);
     padding-top:10px;
     padding-bottom: 10px;
     position: relative;
-    top: 280px;
+    top: 500px;
     left: 940px;
     font-size: 18px
 }
 
 .image20000{
     position: relative;
-    top: 400px;
-    left: 100px;
+    top: 0px;
+    left: 40px;
 }
 
 
@@ -329,11 +339,13 @@ color: rgba(52, 52, 52, 1);
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    padding: 20px 30px;
+    padding: 40px 40px;
     width: 100%;
     max-width: 400px;
     position: relative;
-    top: 500px;
+    left: -30px;
+    top: 30px;
+    height: 550px;
 }
 .fillformmain{
     color: #e65500;
@@ -405,12 +417,183 @@ form textarea {
     font-size: 16px;
     border-radius: 4px;
     cursor: pointer;
+    position: relative;
+    top: -26px;
 }
 
 .submit-button:hover {
     background-color: #e65500;
+  
 }
 
 .ending{
-    display: flex;  
+    display: flex;
+    margin-top: 600px;
+    background-color: rgba(169, 194, 190, 1);
+    height: 690px;
+}
+
+.header{
+    /* border: 2px solid black; */
+    margin-top: 200px;
+    height: 90vh;
+}
+
+.o{
+    color: rgba(255, 150, 25, 1);
+    font-size: 160px;
+    position: relative;
+    /* left: -520px; */
+    top: -820px;
+    left: 860px;
+    font-weight: 600;
+    width: 100px;
+    height: 0;
+}
+
+.Похожие{
+    font-family: Raleway;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 41.09px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+
+}
+
+
+.Похожие::first-letter{
+    color:#e65500;
+}
+
+/* .armchairs img{
+background-color:rgb(199, 197, 197);
+
+} */
+
+.armchairs{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 60px;
+}
+
+.name-of-armchairs{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    /* gap: 160px; */
+}
+
+.name-of-armchairs .maartin{
+    position: relative;
+    left: -400px;
+}
+
+.name-of-armchairs .alba{
+    position: relative;
+    left: -100px;
+}
+
+
+.name-of-armchairs .toscana{
+    position: relative;
+    left: 160px;
+}
+
+
+.name-of-armchairs .leonardo{
+    position: relative;
+    left: 420px;
+}
+
+/* .ekmii{
+    font-family: Raleway;
+    font-size: 130px;
+    font-weight: 800;
+} */
+
+
+.footer{
+    background-color:rgba(91, 91, 91, 1);
+    display: flex;
+    width: 1510px;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.footer p, i{
+    color: #ffff;
+}
+
+
+
+.personalconsultation{
+    background-color:rgba(255, 150, 25, 1);
+    width: 288px;
+    height: 25px;
+border: 1px 0px 0px 0px;
+padding: 12px;
+max-width: 3300px;
+max-height: 110px;
+}
+
+
+
+
+i{
+    font-size: 18px;
+}
+
+.buttonstrelka i{
+    position: relative;
+left: 272px;
+top: -  45px;
+font-size: 21px;
+}
+
+
+.secondrowofdata p{
+    font-family: Raleway;
+font-weight: 500;
+line-height: 19.5px;
+}
+
+.firstrowofinfo p{
+    font-family: Raleway;
+    font-weight: 500;
+    line-height: 19.5px;
+}
+
+.ies i{
+    border:1px solid white;
+    border-radius: 13px;
+    padding: 5px;
+    font-size: 22px;
+margin-left: 20px;
+}
+
+
+.ekmii{
+    font-family: Raleway;
+font-size: 130px;
+font-weight: 800;
+color: rgba(91, 91, 91, 1);
+transform: translate(1050px, 120px);
+line-height: 143px;
+
+
+}
+
+.buttonstrelka i{
+    top: -47px;
+    left: 280px;
+}
+
+.oursocialites{
+    line-height:40px;
 }
